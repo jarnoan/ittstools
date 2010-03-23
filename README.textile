@@ -9,7 +9,7 @@ Use as you like, but at your own risk!
 h2. weeklysales.sh
 
 Shell script that fetches the latest weekly sales report from iTunes Connect,
-saves in in a directory, appends it to a master report and mails it.
+saves it in a directory, appends it to a master report and mails it.
 See the script for configurable parameters.
 
 
